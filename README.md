@@ -10,6 +10,7 @@ Things that I love:
 - Networking
 - Hacking (Network Hacking, Malware analysis, and Exploit development)
 - Coding (Python & C++)
+
 Certifications 📜
 - CCNA | AWS CCP | Comptia Security + | BTL1 | EJPT | Fortinet NSE 2 |
 
