@@ -7,22 +7,16 @@
 Mission:
 
 Things that I love:
-- Networking
-- Hacking (Network Hacking, Malware analysis, and Exploit development)
+- Network design & engineering
+- Blue Teaming: Incident response, malware analysis, and threat hunting
+- Red Teaming: (Network hacking & exploit development)
 - Coding (Python & C++)
 
 Certifications 📜
-- CCNA | AWS CCP | Comptia Security + | BTL1 | EJPT | Fortinet NSE 2 |
+- CCNA | AWS CCP | Comptia Security + | BTL1 | EJPT | Fortinet NSE 3
 
-👯 I’m looking to collaborate on ...
+Experience
+- Network security engineering, Cyber Ops (Threat hunting, Threat analysis & IR), & In depth technical troubleshooting
 
-🤔 I’m looking for help with ...
-
-💬 Ask me about ...
-
-📫 How to reach me: ...
-
-😄 Pronouns: ...
-
-- ⚡ Fun fact: ...
+  
 
